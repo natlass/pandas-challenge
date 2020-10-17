@@ -9,3 +9,6 @@ This homework assignment should utilize the knowledge gained from the Pandas uni
 #
 The final code listed in the document should offer valuable insights into the game's purchasing data, with real-world applications on non-imaginary business purchasing information as well.
 
+![alt text][logo]
+
+[logo]: Resources/pypoli_land.jpg "Land of Pypoli"
