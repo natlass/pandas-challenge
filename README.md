@@ -11,4 +11,4 @@ The final code listed in the document should offer valuable insights into the ga
 
 ![alt text][logo]
 
-[logo]: Resources/pypoli_land.jpg "Land of Pypoli"
+[logo]: Resources/pypoli_land.jpg "Land of Pymoli"
